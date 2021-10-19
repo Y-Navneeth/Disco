@@ -49,5 +49,5 @@ __Comming Soon!__
 ## Our Server For Coding and Chill
 
 
-<a href=" https://discord.gg/VYaPuyG8S4"><img src="https://cdn.discordapp.com/attachments/882514954677260348/900056834524737566/unknown.png"></a>
+<a href="https://discord.gg/VYaPuyG8S4"><img src="https://cdn.discordapp.com/attachments/882514954677260348/900056834524737566/unknown.png"></a>
 
