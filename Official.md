@@ -49,7 +49,7 @@ __Comming Soon!__
 ## Our Server For Coding and Chill
 
 
-<a href="https://discord.gg/VYaPuyG8S4"><img src="https://cdn.discordapp.com/attachments/882514954677260348/900056834524737566/unknown.png"></a>
+<a href="https://discord.gg/VYaPuyG8S4"><img src="https://cdn.discordapp.com/attachments/882514954677260348/900066310132744202/unknown.png"></a>
 
 --------------------
 
@@ -59,3 +59,5 @@ __Comming Soon!__
 > `✅`**Owner**: **SaiBro#5491**
 
 #### `❗`Note:- Those are my accounts only!
+
+---------------------------------
