@@ -5,7 +5,7 @@ module.exports = {
         const queue = client.distube.getQueue(message)
         if(!queue) return message.reply('**There is nothing to resume!**')
 
-        if(queue.resumed) return message.reply("**The Song is already resumed! | `▶`**")
+        if(queue.playing) return message.reply("**The Song is already resumed! | `▶`**")
 
         try {
             client.distube.resume(message)
