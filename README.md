@@ -28,4 +28,37 @@ __2. Ban command:  `d!ban`__ *aliases*: __`d!b`__
 
 -------------------------
 
-### Pls do read `Official.md`
+### Installation Process:
+
+#### Requirements And Packages: 
+__1. node v16__
+
+__2. discord.js V13__
+
+__3. @discordjs/opus, @discordjs/voice__
+
+__4. distube V3__
+
+__5. ffmpeg-static, libsodium-wrappers__
+
+Go down and see the process
+----------------------
+### Terminal Process:
+
+1. ```npm i discord.js @discordjs/opus @discordjs/voice```
+
+2. ```npm i distube ffmpeg-static libsodium-wrappers```
+
+-----------------
+
+#### Optional Packages
+
+__1. If u want Spotify,SoundCloud support and links, then download this packages__
+
+```npm i @distube/spotify @distube/soundcloud```
+
+
+----------------------
+
+### Pls do read and Support me by joining my server or by inviting My own Bot. Read This File [Click Here](https://github.com/Y-Navneeth/Disco/blob/main/Official.md)
+
