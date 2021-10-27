@@ -20,14 +20,6 @@ __7. AutoPlay command: `d!autoplay`__ *aliases*: __`d!ap`, `d!24/7`__
 
 -----------------------------------
 
-### `📙` Moderation Commands:
-
-__1. Kick command:  `d!kick`__ *aliases:* __`d!k`__
-
-__2. Ban command:  `d!ban`__ *aliases*: __`d!b`__
-
--------------------------
-
 ### Installation Process:
 
 #### Requirements And Packages: 
